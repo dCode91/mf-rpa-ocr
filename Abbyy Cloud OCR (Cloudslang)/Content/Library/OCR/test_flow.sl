@@ -5,8 +5,8 @@ flow:
     - abbyy_business_card_reader:
         do:
           OCR.abbyy_business_card_reader:
-            - app_id: 9244aa8e-3cd6-47d7-9a0d-7c340f05cacb
-            - pwd: y5T/VngKJh0K9abMGbRQ2EgL
+            - app_id: ""
+            - pwd: ""
             - file_path: "C:\\Program Files\\Micro Focus\\Robotic Process Automation Designer\\python\\python-3.8.0\\\\new\\\\test_image\\\\adi.JPG"
         publish:
           - content
